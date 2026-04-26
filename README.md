@@ -64,4 +64,4 @@ I'm an engineering student at Efrei Paris, motivated, curious, and always ready 
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=AlikBook&icon=0&color=0)](https://visitcount.itsvg.in)
+
